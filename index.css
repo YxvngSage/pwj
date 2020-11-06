@@ -1,0 +1,23 @@
+.boldedText{
+    font-weight: bold;
+}
+
+.italicizedText{
+    font-style: italic;
+}
+
+.underlinedText{
+    text-decoration: underline;
+}
+
+.leftText{
+    text-align: left;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.rightText{
+    text-align: right;
+}
